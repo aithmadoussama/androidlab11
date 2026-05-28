@@ -428,3 +428,5 @@ L’application montre :
 Ces concepts sont indispensables dans la majorité des applications Android modernes.
 
 ---
+
+https://github.com/user-attachments/assets/b970a6b6-ea30-47b1-b33c-5560c480bcd9
